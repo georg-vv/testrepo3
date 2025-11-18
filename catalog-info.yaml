@@ -11,5 +11,5 @@ metadata:
     github.com/project-slug: georg-vv/testrepo3
 spec:
   type: service
-  owner: user:default/georg.schwarz
+  owner: user:default/g.schwarzberlin
   lifecycle: experimental
